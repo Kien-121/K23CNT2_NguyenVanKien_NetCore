@@ -1,0 +1,35 @@
+﻿@model List<NvkLab06.Models.NvkEmployee>
+@{
+    ViewBag.Title = "Danh sách nhân viên";
+}
+<h2>Danh sách nhân viên</h2>
+<p><a href="@Url.Action("NvkCreate")" class="btn btn-success">Thêm mới</a></p>
+<table class="table table-bordered">
+    <tr>
+        <th>ID</th>
+        <th>Tên</th>
+        <th>Ngày sinh</th>
+        <th>Email</th>
+        <th>Điện thoại</th>
+        <th>Lương</th>
+        <th>Trạng thái</th>
+        <th>Hành động</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.NvkId</td>
+            <td>@item.NvkName</td>
+            <td>@item.NvkBirthDay.ToShortDateString()</td>
+            <td>@item.NvkEmail</td>
+            <td>@item.NvkPhone</td>
+            <td>@item.NvkSalary</td>
+            <td>@(item.NvkStatus ? "Đang làm" : "Nghỉ")</td>
+            <td>
+                <a href="@Url.Action("NvkEdit", new { id = item.NvkId })" class="btn btn-primary">Sửa</a>
+                <a href="@Url.Action("NvkDelete", new { id = item.NvkId })" class="btn btn-danger">Xóa</a>
+            </td>
+        </tr>
+    }
+</table>
+

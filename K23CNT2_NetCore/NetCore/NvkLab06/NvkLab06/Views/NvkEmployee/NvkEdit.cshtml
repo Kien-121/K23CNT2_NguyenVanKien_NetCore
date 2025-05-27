@@ -1,0 +1,45 @@
+﻿@model NvkLab06.Models.NvkEmployee
+
+@{
+    ViewBag.Title = "Chỉnh sửa nhân viên";
+}
+
+<h2>Chỉnh sửa nhân viên</h2>
+
+@using (Html.BeginForm("NvkEditPUT", "NvkEmployee", FormMethod.Post))
+{
+    @Html.HiddenFor(m => m.NvkId)
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.NvkName)
+        @Html.TextBoxFor(m => m.NvkName, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.NvkBirthDay)
+        @Html.TextBoxFor(m => m.NvkBirthDay, "{0:yyyy-MM-dd}", new { @class = "form-control", type = "date" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.NvkEmail)
+        @Html.TextBoxFor(m => m.NvkEmail, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.NvkPhone)
+        @Html.TextBoxFor(m => m.NvkPhone, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.NvkSalary)
+        @Html.TextBoxFor(m => m.NvkSalary, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.NvkStatus)
+        @Html.CheckBoxFor(m => m.NvkStatus)
+    </div>
+
+    <button type="submit" class="btn btn-primary">Cập nhật</button>
+}
+
