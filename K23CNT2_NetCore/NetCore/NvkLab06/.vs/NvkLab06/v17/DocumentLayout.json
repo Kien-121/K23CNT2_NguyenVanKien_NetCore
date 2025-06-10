@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\K23CNT2_NetCore\\NetCore\\NvkLab06\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AA67A4F8-3065-4610-851C-903C58AD2A96}|NvkLab06\\NvkLab06.csproj|c:\\k23cnt2_netcore\\netcore\\nvklab06\\nvklab06\\nvkcontrollers\\nvkemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA67A4F8-3065-4610-851C-903C58AD2A96}|NvkLab06\\NvkLab06.csproj|solutionrelative:nvklab06\\nvkcontrollers\\nvkemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AA67A4F8-3065-4610-851C-903C58AD2A96}|NvkLab06\\NvkLab06.csproj|c:\\k23cnt2_netcore\\netcore\\nvklab06\\nvklab06\\views\\nvkemployee\\nvkindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AA67A4F8-3065-4610-851C-903C58AD2A96}|NvkLab06\\NvkLab06.csproj|solutionrelative:nvklab06\\views\\nvkemployee\\nvkindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA67A4F8-3065-4610-851C-903C58AD2A96}|NvkLab06\\NvkLab06.csproj|c:\\k23cnt2_netcore\\netcore\\nvklab06\\nvklab06\\views\\nvkemployee\\nvkedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AA67A4F8-3065-4610-851C-903C58AD2A96}|NvkLab06\\NvkLab06.csproj|solutionrelative:nvklab06\\views\\nvkemployee\\nvkedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA67A4F8-3065-4610-851C-903C58AD2A96}|NvkLab06\\NvkLab06.csproj|c:\\k23cnt2_netcore\\netcore\\nvklab06\\nvklab06\\nvkcontrollers\\nvkemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA67A4F8-3065-4610-851C-903C58AD2A96}|NvkLab06\\NvkLab06.csproj|solutionrelative:nvklab06\\nvkcontrollers\\nvkemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA67A4F8-3065-4610-851C-903C58AD2A96}|NvkLab06\\NvkLab06.csproj|c:\\k23cnt2_netcore\\netcore\\nvklab06\\nvklab06\\models\\nvkemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,24 +54,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\K23CNT2_NetCore\\NetCore\\NvkLab06\\NvkLab06\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "NvkLab06\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\K23CNT2_NetCore\\NetCore\\NvkLab06\\NvkLab06\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "NvkLab06\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-27T02:54:36.162Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -83,12 +70,11 @@
               "RelativeToolTip": "NvkLab06\\Views\\Shared\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-27T02:50:35.461Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T02:50:35.461Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "NvkEdit.cshtml",
               "DocumentMoniker": "C:\\K23CNT2_NetCore\\NetCore\\NvkLab06\\NvkLab06\\Views\\NvkEmployee\\NvkEdit.cshtml",
               "RelativeDocumentMoniker": "NvkLab06\\Views\\NvkEmployee\\NvkEdit.cshtml",
@@ -96,25 +82,11 @@
               "RelativeToolTip": "NvkLab06\\Views\\NvkEmployee\\NvkEdit.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-27T02:49:44.605Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T02:49:44.605Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "NvkCreate.cshtml",
-              "DocumentMoniker": "C:\\K23CNT2_NetCore\\NetCore\\NvkLab06\\NvkLab06\\Views\\NvkEmployee\\NvkCreate.cshtml",
-              "RelativeDocumentMoniker": "NvkLab06\\Views\\NvkEmployee\\NvkCreate.cshtml",
-              "ToolTip": "C:\\K23CNT2_NetCore\\NetCore\\NvkLab06\\NvkLab06\\Views\\NvkEmployee\\NvkCreate.cshtml",
-              "RelativeToolTip": "NvkLab06\\Views\\NvkEmployee\\NvkCreate.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-27T02:49:29.176Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "NvkIndex.cshtml",
               "DocumentMoniker": "C:\\K23CNT2_NetCore\\NetCore\\NvkLab06\\NvkLab06\\Views\\NvkEmployee\\NvkIndex.cshtml",
               "RelativeDocumentMoniker": "NvkLab06\\Views\\NvkEmployee\\NvkIndex.cshtml",
@@ -127,6 +99,30 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\K23CNT2_NetCore\\NetCore\\NvkLab06\\NvkLab06\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "NvkLab06\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\K23CNT2_NetCore\\NetCore\\NvkLab06\\NvkLab06\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "NvkLab06\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T02:54:36.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NvkCreate.cshtml",
+              "DocumentMoniker": "C:\\K23CNT2_NetCore\\NetCore\\NvkLab06\\NvkLab06\\Views\\NvkEmployee\\NvkCreate.cshtml",
+              "RelativeDocumentMoniker": "NvkLab06\\Views\\NvkEmployee\\NvkCreate.cshtml",
+              "ToolTip": "C:\\K23CNT2_NetCore\\NetCore\\NvkLab06\\NvkLab06\\Views\\NvkEmployee\\NvkCreate.cshtml",
+              "RelativeToolTip": "NvkLab06\\Views\\NvkEmployee\\NvkCreate.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T02:49:29.176Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
               "Title": "NvkEmployee.cs",
               "DocumentMoniker": "C:\\K23CNT2_NetCore\\NetCore\\NvkLab06\\NvkLab06\\Models\\NvkEmployee.cs",
@@ -135,8 +131,7 @@
               "RelativeToolTip": "NvkLab06\\Models\\NvkEmployee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T02:47:17.807Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T02:47:17.807Z"
             },
             {
               "$type": "Document",
@@ -148,18 +143,17 @@
               "RelativeToolTip": "NvkLab06\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T02:48:20.868Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T02:48:20.868Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "NvkEmployeeController.cs",
               "DocumentMoniker": "C:\\K23CNT2_NetCore\\NetCore\\NvkLab06\\NvkLab06\\NvkControllers\\NvkEmployeeController.cs",
               "RelativeDocumentMoniker": "NvkLab06\\NvkControllers\\NvkEmployeeController.cs",
               "ToolTip": "C:\\K23CNT2_NetCore\\NetCore\\NvkLab06\\NvkLab06\\NvkControllers\\NvkEmployeeController.cs",
               "RelativeToolTip": "NvkLab06\\NvkControllers\\NvkEmployeeController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwDYAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCAAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T02:47:55.694Z",
               "EditorCaption": ""
@@ -174,8 +168,7 @@
               "RelativeToolTip": "NvkLab06\\Views\\Shared\\_NvkLayout.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAACNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-27T02:57:52.64Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T02:57:52.64Z"
             },
             {
               "$type": "Document",
@@ -187,8 +180,7 @@
               "RelativeToolTip": "NvkLab06\\NvkControllers\\NvkHomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T02:47:23.568Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T02:47:23.568Z"
             },
             {
               "$type": "Document",
@@ -200,8 +192,7 @@
               "RelativeToolTip": "NvkLab06\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-27T02:48:14.225Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T02:48:14.225Z"
             }
           ]
         }

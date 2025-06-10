@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\K23CNT2_NetCore\\NetCore\\ls4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11647642-5E17-4DB7-B4CA-DB84F9E848AA}|ls4\\ls4.csproj|c:\\k23cnt2_netcore\\netcore\\ls4\\ls4\\views\\nvkbook\\nvkindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11647642-5E17-4DB7-B4CA-DB84F9E848AA}|ls4\\ls4.csproj|solutionrelative:ls4\\views\\nvkbook\\nvkindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11647642-5E17-4DB7-B4CA-DB84F9E848AA}|ls4\\ls4.csproj|c:\\k23cnt2_netcore\\netcore\\ls4\\ls4\\views\\nvkhome\\nvkabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11647642-5E17-4DB7-B4CA-DB84F9E848AA}|ls4\\ls4.csproj|solutionrelative:ls4\\views\\nvkhome\\nvkabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11647642-5E17-4DB7-B4CA-DB84F9E848AA}|ls4\\ls4.csproj|c:\\k23cnt2_netcore\\netcore\\ls4\\ls4\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11647642-5E17-4DB7-B4CA-DB84F9E848AA}|ls4\\ls4.csproj|solutionrelative:ls4\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11647642-5E17-4DB7-B4CA-DB84F9E848AA}|ls4\\ls4.csproj|c:\\k23cnt2_netcore\\netcore\\ls4\\ls4\\controllers\\homecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11647642-5E17-4DB7-B4CA-DB84F9E848AA}|ls4\\ls4.csproj|solutionrelative:ls4\\controllers\\homecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11647642-5E17-4DB7-B4CA-DB84F9E848AA}|ls4\\ls4.csproj|c:\\k23cnt2_netcore\\netcore\\ls4\\ls4\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11647642-5E17-4DB7-B4CA-DB84F9E848AA}|ls4\\ls4.csproj|solutionrelative:ls4\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NvkAbout.cshtml",
+              "DocumentMoniker": "C:\\K23CNT2_NetCore\\NetCore\\ls4\\ls4\\Views\\NvkHome\\NvkAbout.cshtml",
+              "RelativeDocumentMoniker": "ls4\\Views\\NvkHome\\NvkAbout.cshtml",
+              "ToolTip": "C:\\K23CNT2_NetCore\\NetCore\\ls4\\ls4\\Views\\NvkHome\\NvkAbout.cshtml",
+              "RelativeToolTip": "ls4\\Views\\NvkHome\\NvkAbout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T03:33:58.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NvkIndex.cshtml",
+              "DocumentMoniker": "C:\\K23CNT2_NetCore\\NetCore\\ls4\\ls4\\Views\\Nvkbook\\NvkIndex.cshtml",
+              "RelativeDocumentMoniker": "ls4\\Views\\Nvkbook\\NvkIndex.cshtml",
+              "ToolTip": "C:\\K23CNT2_NetCore\\NetCore\\ls4\\ls4\\Views\\Nvkbook\\NvkIndex.cshtml",
+              "RelativeToolTip": "ls4\\Views\\Nvkbook\\NvkIndex.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T03:32:27.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "book.cs",
+              "DocumentMoniker": "C:\\K23CNT2_NetCore\\NetCore\\ls4\\ls4\\Models\\book.cs",
+              "RelativeDocumentMoniker": "ls4\\Models\\book.cs",
+              "ToolTip": "C:\\K23CNT2_NetCore\\NetCore\\ls4\\ls4\\Models\\book.cs",
+              "RelativeToolTip": "ls4\\Models\\book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T03:17:56.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\K23CNT2_NetCore\\NetCore\\ls4\\ls4\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ls4\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\K23CNT2_NetCore\\NetCore\\ls4\\ls4\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ls4\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T03:08:52.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController1.cs",
+              "DocumentMoniker": "C:\\K23CNT2_NetCore\\NetCore\\ls4\\ls4\\Controllers\\HomeController1.cs",
+              "RelativeDocumentMoniker": "ls4\\Controllers\\HomeController1.cs",
+              "ToolTip": "C:\\K23CNT2_NetCore\\NetCore\\ls4\\ls4\\Controllers\\HomeController1.cs",
+              "RelativeToolTip": "ls4\\Controllers\\HomeController1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T03:14:39.217Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

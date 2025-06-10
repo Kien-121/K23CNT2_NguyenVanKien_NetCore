@@ -1,0 +1,12 @@
+C:\K23CNT2_NetCore\NetCore\nvklesson04\04\04.ServiceDefaults\bin\Debug\net8.0\04.ServiceDefaults.deps.json
+C:\K23CNT2_NetCore\NetCore\nvklesson04\04\04.ServiceDefaults\bin\Debug\net8.0\04.ServiceDefaults.dll
+C:\K23CNT2_NetCore\NetCore\nvklesson04\04\04.ServiceDefaults\bin\Debug\net8.0\04.ServiceDefaults.pdb
+C:\K23CNT2_NetCore\NetCore\nvklesson04\04\04.ServiceDefaults\obj\Debug\net8.0\04.ServiceDefaults.csproj.AssemblyReference.cache
+C:\K23CNT2_NetCore\NetCore\nvklesson04\04\04.ServiceDefaults\obj\Debug\net8.0\04.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\K23CNT2_NetCore\NetCore\nvklesson04\04\04.ServiceDefaults\obj\Debug\net8.0\04.ServiceDefaults.AssemblyInfoInputs.cache
+C:\K23CNT2_NetCore\NetCore\nvklesson04\04\04.ServiceDefaults\obj\Debug\net8.0\04.ServiceDefaults.AssemblyInfo.cs
+C:\K23CNT2_NetCore\NetCore\nvklesson04\04\04.ServiceDefaults\obj\Debug\net8.0\04.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\K23CNT2_NetCore\NetCore\nvklesson04\04\04.ServiceDefaults\obj\Debug\net8.0\04.ServiceDefaults.dll
+C:\K23CNT2_NetCore\NetCore\nvklesson04\04\04.ServiceDefaults\obj\Debug\net8.0\refint\04.ServiceDefaults.dll
+C:\K23CNT2_NetCore\NetCore\nvklesson04\04\04.ServiceDefaults\obj\Debug\net8.0\04.ServiceDefaults.pdb
+C:\K23CNT2_NetCore\NetCore\nvklesson04\04\04.ServiceDefaults\obj\Debug\net8.0\ref\04.ServiceDefaults.dll
