@@ -1,0 +1,59 @@
+﻿@model IEnumerable<nvklesson11.Models.NvkEmployee>
+
+@{
+    ViewData["Title"] = "Thông tin nhân viên ";
+}
+
+
+<p>
+    <a asp-action="NvkCreate">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.NvkEmpName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NvkEmpLevel)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NvkEmpStartDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NvkEmpStatus)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NvkEmpName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NvkEmpLevel)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NvkEmpStartDate)
+            </td>
+                <td>
+                    @if (item.NvkEmpStatus == true)
+                    {
+                        <text>Hiển thị </text>
+                    }
+                    else
+                    {
+                        <text>Tạm khóa  </text>
+                    }
+                </td>
+            <td>
+                <a asp-action="NvkEdit" asp-route-id="@item.NvkEmpId">Edit</a> |
+                <a asp-action="NvkDetails" asp-route-id="@item.NvkEmpId">Details</a> |
+                <a asp-action="NvkDelete" asp-route-id="@item.NvkEmpId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
